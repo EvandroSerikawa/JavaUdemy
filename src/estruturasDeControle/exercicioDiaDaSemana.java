@@ -2,7 +2,7 @@ package estruturasDeControle;
 
 import java.util.Scanner;
 
-public class diaDaSemana {
+public class exercicioDiaDaSemana {
     public static void main(String[] args) {
 
         // Digite o entrada da semana e o programa retorne o numero

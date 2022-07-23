@@ -2,7 +2,7 @@ package estruturasDeControle;
 
 import java.util.Scanner;
 
-public class WhileRepTres {
+public class WhileRepDois {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
