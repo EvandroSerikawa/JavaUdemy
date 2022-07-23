@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dc17682-a8e9-45f6-94d0-e1651649b98b" name="Changes" comment="" />
+    <list default="true" id="5dc17682-a8e9-45f6-94d0-e1651649b98b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/WhileRepTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/diaDaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/doWhileRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/elseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/forRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/forRepDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/ifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/whileRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasDeControle/whileRepDois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CKKymK3MaUb5sy2RfKEwxLlEM5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,17 +41,106 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.WhileRepTres">
+    <configuration name="WhileRepTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasDeControle.WhileRepTres" />
+      <module name="JavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estruturasDeControle.whileRepDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasDeControle.whileRepDois" />
+      <module name="JavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forRep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasDeControle.forRep" />
+      <module name="JavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forRepDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasDeControle.forRepDois" />
+      <module name="JavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileRep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasDeControle.whileRep" />
+      <module name="JavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhileRepTres" />
+        <item itemvalue="Application.estruturasDeControle.forRepDois" />
+        <item itemvalue="Application.estruturasDeControle.forRep" />
+        <item itemvalue="Application.estruturasDeControle.whileRepDois" />
+        <item itemvalue="Application.estruturasDeControle.whileRep" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc17682-a8e9-45f6-94d0-e1651649b98b" name="Changes" comment="" />
       <created>1658546098903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658546098903</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
