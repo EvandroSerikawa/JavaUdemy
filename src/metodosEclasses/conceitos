@@ -1,0 +1,39 @@
+
+Anatomia de uma classe
+
+ex: palavra reservada class + nome da classe
+modificadores de acesso ex: public, private
+variações como herança
+
+Corpo da classe - conteudo
+Atributos ( dados ), métodos ( comportamentos )
+
+Uma classe define um tipo
+um tipo é uma estrutura de dados ( int, double,)
+
+Uma classe representa uma abstração ( simplificação do que é real )
+
+Os objetos são criados a partir da classe( dados criados a partir da classe )
+objeto = instancia
+classe = tipo
+
+Construtor - armazena os atributos para a criação de uma novo objeto.
+
+Membros de uma classe
+Variaveis/ constantes
+Construtor
+métodos
+classes
+
+Membros do objeto
+ex: System.out.print - notação ponto para acessar os membros da classe ou do objeto
+
+Palavras reservadas da linguagem - Não criar classes nem varivais com palavras reservadas.
+
+
+
+
+
+
+
+
