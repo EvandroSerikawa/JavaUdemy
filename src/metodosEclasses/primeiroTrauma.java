@@ -6,6 +6,7 @@ public class primeiroTrauma {
 
     public static void main(String[] args) {
         // Desafio - corrigir o codigo sem alterar a linha da variavel a
-        //System.out.println(a);
+        primeiroTrauma p = new primeiroTrauma();
+        System.out.println(p.a);
     }
 }
