@@ -1,7 +1,5 @@
 package metodosEclasses;
-
 public class primeiroTrauma {
-
     int a =3; // não pode mexer aqui
 
     public static void main(String[] args) {
