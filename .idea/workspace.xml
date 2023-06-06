@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc17682-a8e9-45f6-94d0-e1651649b98b" name="Changes" comment="classe teste deletada">
-      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/dataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/DesafioVariaveisEConstantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Import.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/SegundoPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/TipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/deletar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosEclasses/pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/metodosEclasses/deletar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/projeto/exerciciosDioJava"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documentos/Cursos/JAVA/cursoJavaUdemy/JavaUdemy&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.deletar">
-    <configuration name="deletar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosEclasses.deletar" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Fundamentos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TipoString">
+    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.Import" />
       <module name="JavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metodosEclasses.*" />
+          <option name="PATTERN" value="Fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicioG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasDeControleExercicios.exercicioG" />
+    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.Inferencia" />
       <module name="JavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasDeControleExercicios.*" />
+          <option name="PATTERN" value="Fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicioH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasDeControleExercicios.exercicioH" />
+    <configuration name="NotacaoPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.NotacaoPonto" />
       <module name="JavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasDeControleExercicios.*" />
+          <option name="PATTERN" value="Fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicioI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasDeControleExercicios.exercicioI" />
+    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.TipoString" />
       <module name="JavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasDeControleExercicios.*" />
+          <option name="PATTERN" value="Fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="produtoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosEclasses.produtoTeste" />
+    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.TiposPrimitivos" />
       <module name="JavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metodosEclasses.*" />
+          <option name="PATTERN" value="Fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.deletar" />
-        <item itemvalue="Application.produtoTeste" />
-        <item itemvalue="Application.exercicioI" />
-        <item itemvalue="Application.exercicioH" />
-        <item itemvalue="Application.exercicioG" />
+        <item itemvalue="Application.TipoString" />
+        <item itemvalue="Application.Import" />
+        <item itemvalue="Application.NotacaoPonto" />
+        <item itemvalue="Application.TiposPrimitivos" />
+        <item itemvalue="Application.Inferencia" />
       </list>
     </recent_temporary>
   </component>
